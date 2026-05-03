@@ -86,8 +86,7 @@ The dashboard helps analyze:
 - Data Visualization
 
 ## Files
-
-- `dashboard/sales_dashboard_powerbi.pbix`: Power BI dashboard file.
+- `dashboard/sales_dashboard_powerbi.pbix.pbix`: Power BI dashboard file.
 - `screenshots/`: dashboard preview images.
 
 ## Project Structure
